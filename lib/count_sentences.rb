@@ -20,4 +20,5 @@ class String
     counted_string = string.count
     counted_string
   end
+  binding.pry
 end
